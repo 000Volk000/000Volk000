@@ -77,7 +77,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/000Volk000/000Volk000/output/snake.svg" alt="Snake animation" />
-
-###
