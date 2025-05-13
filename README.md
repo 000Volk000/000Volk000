@@ -29,7 +29,7 @@
 
 ###
 
-<p align="center">Soy Darío de Córdoba<br><br>- 📚 Estoy estudiando Ingeniería Informática<br>- ⚡ En mi tiempo libre me dedico a aprender cosas nuevas<br>- 🤓 I Am Arch User BTW</p>
+<p align="center">Soy Darío Martínez Kosrtyuk desde Córdoba España<br><br>- 📚 Estoy estudiando Ingeniería Informática<br>- ⚡ En mi tiempo libre me dedico a aprender cosas nuevas<br>- 🤓 I Am Arch User BTW</p>
 
 ###
 
@@ -56,9 +56,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="40" alt="unix logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="40" alt="archlinux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
   <img width="12" />
